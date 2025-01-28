@@ -1,2 +1,4 @@
 # eats-all-web
-eats all web recact app
+eats all web react app
+First commit
+Testing commit
